@@ -1,11 +1,9 @@
-/* Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Global Styles */
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
@@ -17,8 +15,6 @@ body {
     max-width: 1200px;
     margin: auto;
 }
-
-/* Header */
 .header {
     background: #333;
     color: #fff;
@@ -73,8 +69,6 @@ body {
 .hero .btn:hover {
     background: #e0554f;
 }
-
-/* Products Section */
 .products {
     padding: 2rem 0;
 }
@@ -120,15 +114,11 @@ body {
 .product-item .btn:hover {
     background: #444;
 }
-
-/* About Section */
 .about {
     padding: 2rem 0;
     background: #f9f9f9;
     text-align: center;
 }
-
-/* Contact Section */
 .contact {
     padding: 2rem 0;
 }
