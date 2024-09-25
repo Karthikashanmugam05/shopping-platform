@@ -1,4 +1,3 @@
-// JavaScript for adding items to the cart
 document.addEventListener('DOMContentLoaded', function () {
     const cartIcon = document.querySelector('.cart-icon');
     const addToCartButtons = document.querySelectorAll('.add-to-cart');
